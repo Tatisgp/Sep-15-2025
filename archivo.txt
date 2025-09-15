@@ -1,0 +1,3 @@
+rama trabajo > archivo.txt
+
+
